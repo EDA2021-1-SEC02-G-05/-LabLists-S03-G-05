@@ -96,7 +96,6 @@ def addTag(catalog, tag):
     t = newTag(tag['tag_name'], tag['tag_id'])
     lt.addLast(catalog['tags'], t)
 
-
 def addBookTag(catalog, booktag):
     """
     Adiciona un tag a la lista de tags

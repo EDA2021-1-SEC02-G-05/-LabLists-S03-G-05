@@ -68,7 +68,6 @@ def printAuthorData(author):
     else:
         print('No se encontro el autor')
 
-
 def printBestBooks(books):
     size = lt.size(books)
     if size:

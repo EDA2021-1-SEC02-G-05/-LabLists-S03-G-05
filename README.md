@@ -29,5 +29,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 
 Santiago Vela-s.vela@uniandes.edu.co
-Nicolas Gomez- jn.gomezm1@uniandes.edu.co
+Jairo Nicolas Gomez- jn.gomezm1@uniandes.edu.co
 
